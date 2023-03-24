@@ -1,0 +1,3 @@
+The outputs from this steps are available in the following repository:
+
+https://github.com/kanancastroo/mac-gyver-predictor

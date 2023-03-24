@@ -1,0 +1,329 @@
+﻿Electric Load;load-generation balance
+Photovoltaic System;load-generation balance
+Wind Energy system;load-generation balance
+Battery storages;control the battery and enhance the operation of the system
+Battery storages;control the battery and enhance the operation of the system
+Battery storages;control the battery and enhance the operation of the system
+Electric Load;control the battery and enhance the operation of the system
+Photovoltaic System;control the battery and enhance the operation of the system
+Wind Energy system;control the battery and enhance the operation of the system
+charging station for electric vehicles;control the battery and enhance the operation of the system
+(Prosumers) Households with Photovoltaic cells and wind turbines;control the battery and enhance the operation of the system
+Transformer;control the battery and enhance the operation of the system
+Transmission line;control the battery and enhance the operation of the system
+Battery storages;decrease the power consumption from power utility by using available energy from the solar panels
+Battery storages;decrease the power consumption from power utility by using available energy from the solar panels
+Battery storages;decrease the power consumption from power utility by using available energy from the solar panels
+Electric Load;decrease the power consumption from power utility by using available energy from the solar panels
+Photovoltaic System;decrease the power consumption from power utility by using available energy from the solar panels
+Wind Energy system;decrease the power consumption from power utility by using available energy from the solar panels
+charging station for electric vehicles;decrease the power consumption from power utility by using available energy from the solar panels
+(Prosumers) Households with Photovoltaic cells and wind turbines;decrease the power consumption from power utility by using available energy from the solar panels
+Transformer;decrease the power consumption from power utility by using available energy from the solar panels
+Transmission line;decrease the power consumption from power utility by using available energy from the solar panels
+Battery storages;supply power power to the electric load
+Battery storages;supply power power to the electric load
+Battery storages;supply power power to the electric load
+Electric Load;supply power power to the electric load
+Photovoltaic System;supply power power to the electric load
+Wind Energy system;supply power power to the electric load
+charging station for electric vehicles;supply power power to the electric load
+(Prosumers) Households with Photovoltaic cells and wind turbines;supply power power to the electric load
+Transformer;supply power power to the electric load
+Transmission line;supply power power to the electric load
+Battery storages;supply power to homes even in the event of an electric grid outage
+Battery storages;supply power to homes even in the event of an electric grid outage
+Battery storages;supply power to homes even in the event of an electric grid outage
+Electric Load;supply power to homes even in the event of an electric grid outage
+Photovoltaic System;supply power to homes even in the event of an electric grid outage
+Wind Energy system;supply power to homes even in the event of an electric grid outage
+charging station for electric vehicles;supply power to homes even in the event of an electric grid outage
+(Prosumers) Households with Photovoltaic cells and wind turbines;supply power to homes even in the event of an electric grid outage
+Transformer;supply power to homes even in the event of an electric grid outage
+Transmission line;supply power to homes even in the event of an electric grid outage
+Heating/Ventilation and Air-Conditioning system (HVAC);to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Building Management System (BMS);to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Lighting CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Smart Grid CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Smart Grid CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Audiovisual Management CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Online Scheduling CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Online Scheduling CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Fire Detection CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Fire Detection CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Security Surveillance CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Security Surveillance CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Security Surveillance CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+Emergency Management CS;to ensure the comfort of its occupants by enhancing the automation to relief them from manual control of different services while increasing the energy savings
+distributed traffic lights network;minimize the average vehicle waiting time in the network
+distributed traffic lights network;minimize the local waiting time for vehicles
+distributed traffic lights network;north-to-south, red-to-green transition times
+Photovoltaic System;balance between energy production and consumption
+Photovoltaic System;grid stability
+electric vehicles;balance between energy production and consumption
+electric vehicles;balance between energy production and consumption
+electric vehicles;grid stability
+electric vehicles;grid stability
+Photovoltaic System;balance between energy production and consumption
+electric vehicles;balance between energy production and consumption
+Photovoltaic System;grid stability
+electric vehicles;grid stability
+electric vehicles;balance between energy production and consumption
+electric vehicles;grid stability
+electric vehicles;balance between energy production and consumption
+electric vehicles;grid stability
+Photovoltaic System;balance between energy production and consumption
+electric vehicles;balance between energy production and consumption
+Photovoltaic System;grid stability
+electric vehicles;grid stability
+electric vehicles;Optimize the overall charging behavior
+electric vehicles;Optimize the overall charging behavior
+electric vehicles;avoid many simultaneous charging cycles
+electric vehicles;avoid many simultaneous charging cycles
+electric vehicles;minimum peak loads emerging
+electric vehicles;minimum peak loads emerging
+electric vehicles;cost limits are not exceeded
+electric vehicles;cost limits are not exceeded
+Electric Appliances (lights/refrigerators/freezers/washers/dyers/water heaters/baseload);Optimize the overall charging behavior
+Heating/Ventilation and Air-Conditioning system (HVAC);Optimize the overall charging behavior
+one heating system;Optimize the overall charging behavior
+smart home applications utilizing IoT technologies;Optimize the overall charging behavior
+Electric Appliances (lights/refrigerators/freezers/washers/dyers/water heaters/baseload);avoid many simultaneous charging cycles
+Heating/Ventilation and Air-Conditioning system (HVAC);avoid many simultaneous charging cycles
+one heating system;avoid many simultaneous charging cycles
+smart home applications utilizing IoT technologies;avoid many simultaneous charging cycles
+Electric Appliances (lights/refrigerators/freezers/washers/dyers/water heaters/baseload);minimum peak loads emerging
+Heating/Ventilation and Air-Conditioning system (HVAC);minimum peak loads emerging
+one heating system;minimum peak loads emerging
+smart home applications utilizing IoT technologies;minimum peak loads emerging
+Electric Appliances (lights/refrigerators/freezers/washers/dyers/water heaters/baseload);cost limits are not exceeded
+Heating/Ventilation and Air-Conditioning system (HVAC);cost limits are not exceeded
+one heating system;cost limits are not exceeded
+smart home applications utilizing IoT technologies;cost limits are not exceeded
+one heating system;optimise energy usage in a range of weather conditions
+one heating system;optimise energy usage in a range of weather conditions
+one home automation system;optimise energy usage in a range of weather conditions
+one vehicle parking system;optimise energy usage in a range of weather conditions
+one vehicle parking system;optimise energy usage in a range of weather conditions
+Smart Grid CS;promote to use a VPP from a new electricity production cost policy
+Smart Grid CS;promote to use a VPP from a new electricity production cost policy
+Smart Grid CS;promote to use a VPP from a new electricity production cost policy
+Smart Grid CS;promote to use a VPP from a new electricity production cost policy
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;promote to use a VPP from a new electricity production cost policy
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;promote to use a VPP from a new electricity production cost policy
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;promote to use a VPP from a new electricity production cost policy
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Wind Energy system;promote to use a VPP from a new electricity production cost policy
+Group (Representative) Agent - collectives;cluster together into local energy collectives
+(Prosumers) Households with Photovoltaic cells and wind turbines;cluster together into local energy collectives
+Group (Representative) Agent - collectives;use storage and demand-response techniques
+(Prosumers) Households with Photovoltaic cells and wind turbines;use storage and demand-response techniques
+Group (Representative) Agent - collectives;balance energy consumption and production
+(Prosumers) Households with Photovoltaic cells and wind turbines;balance energy consumption and production
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+(Prosumers) Households with Photovoltaic cells and wind turbines;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Group (Representative) Agent - collectives;deploy batteries in different ways depending on the behaviour of their members
+Market Agent;market mechanisms
+Storage Agent;market mechanisms
+Optimizer Agent;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+(Prosumers) Households with Photovoltaic cells and wind turbines;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Group (Representative) Agent - collectives;market mechanisms
+Service providers;market mechanisms
+Market Agent;battery storage models
+Storage Agent;battery storage models
+Optimizer Agent;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+(Prosumers) Households with Photovoltaic cells and wind turbines;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Group (Representative) Agent - collectives;battery storage models
+Service providers;battery storage models
+Market Agent;peak optimization
+Storage Agent;peak optimization
+Optimizer Agent;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+(Prosumers) Households with Photovoltaic cells and wind turbines;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Group (Representative) Agent - collectives;peak optimization
+Service providers;peak optimization
+Market Agent;demand side management
+Storage Agent;demand side management
+Optimizer Agent;demand side management
+Group (Representative) Agent - collectives;demand side management
+(Prosumers) Households with Photovoltaic cells and wind turbines;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Group (Representative) Agent - collectives;demand side management
+Service providers;demand side management
+Market Agent;energy consumption/production patterns
+Storage Agent;energy consumption/production patterns
+Optimizer Agent;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+(Prosumers) Households with Photovoltaic cells and wind turbines;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Group (Representative) Agent - collectives;energy consumption/production patterns
+Service providers;energy consumption/production patterns
+Market Agent;distributed negotiations between groups
+Storage Agent;distributed negotiations between groups
+Optimizer Agent;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+(Prosumers) Households with Photovoltaic cells and wind turbines;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Group (Representative) Agent - collectives;distributed negotiations between groups
+Service providers;distributed negotiations between groups
+Electric Appliances (lights/refrigerators/freezers/washers/dyers/water heaters/baseload);Different responses according to different demand/response schemes (price-based)
+Heating/Ventilation and Air-Conditioning system (HVAC);Different responses according to different demand/response schemes (price-based)
+one heating system;Different responses according to different demand/response schemes (price-based)
+smart home applications utilizing IoT technologies;Different responses according to different demand/response schemes (price-based)
+Central controller;Different responses according to different demand/response schemes (price-based)
+Central controller;Different responses according to different demand/response schemes (price-based)
+Building Management System (BMS);decision about the best control design of the Smart Grid
+Diesel Generator Agent;decision about the best control design of the Smart Grid
+Smart Grid CS;decision about the best control design of the Smart Grid
+Smart Grid CS;decision about the best control design of the Smart Grid
+Smart Grid CS;decision about the best control design of the Smart Grid
+Sensors;decision about the best control design of the Smart Grid
+Central controller;decision about the best control design of the Smart Grid
+Photovoltaic System;decision about the best control design of the Smart Grid
+Wind Energy system;decision about the best control design of the Smart Grid
+Building Management System (BMS);optimizations of the decisions of the Smart Grid given the best control design
+Diesel Generator Agent;optimizations of the decisions of the Smart Grid given the best control design
+Smart Grid CS;optimizations of the decisions of the Smart Grid given the best control design
+Smart Grid CS;optimizations of the decisions of the Smart Grid given the best control design
+Smart Grid CS;optimizations of the decisions of the Smart Grid given the best control design
+Sensors;optimizations of the decisions of the Smart Grid given the best control design
+Central controller;optimizations of the decisions of the Smart Grid given the best control design
+Photovoltaic System;optimizations of the decisions of the Smart Grid given the best control design
+Wind Energy system;optimizations of the decisions of the Smart Grid given the best control design
+Diesel Generator Agent;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Transfer Switch;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Transfer Switch;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Storage Agent;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Battery storages;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Storage Agent;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Battery storages;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+IT Servers;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Thermal Storage Device (TES);to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Cooling System;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Cooling System;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Cooling System;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Power Distribution Unit (PDU);to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Wind Energy system;to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.
+Diesel Generator Agent;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Transfer Switch;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Transfer Switch;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Storage Agent;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Battery storages;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Storage Agent;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Battery storages;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+IT Servers;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Thermal Storage Device (TES);to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Cooling System;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Cooling System;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Cooling System;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Power Distribution Unit (PDU);to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Wind Energy system;to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.
+Transportation system (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Oil & gas supply sytem (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Water supply system (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Smart Grid CS;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+(Prosumers) Households with Photovoltaic cells and wind turbines;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Transportation system (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Oil & gas supply sytem (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Water supply system (prosumer);system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Smart Grid CS;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+(Prosumers) Households with Photovoltaic cells and wind turbines;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+provider of raw material;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+provider of raw material;system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events
+Transportation system (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Oil & gas supply sytem (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Water supply system (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Smart Grid CS;agents perform different functions based on their unique advantages relative to other agents postdisruption
+(Prosumers) Households with Photovoltaic cells and wind turbines;agents perform different functions based on their unique advantages relative to other agents postdisruption
+Transportation system (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Oil & gas supply sytem (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Water supply system (prosumer);agents perform different functions based on their unique advantages relative to other agents postdisruption
+Smart Grid CS;agents perform different functions based on their unique advantages relative to other agents postdisruption
+(Prosumers) Households with Photovoltaic cells and wind turbines;agents perform different functions based on their unique advantages relative to other agents postdisruption
+provider of raw material;agents perform different functions based on their unique advantages relative to other agents postdisruption
+provider of raw material;agents perform different functions based on their unique advantages relative to other agents postdisruption
+Transportation system (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Oil & gas supply sytem (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Water supply system (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Smart Grid CS;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+(Prosumers) Households with Photovoltaic cells and wind turbines;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Transportation system (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Oil & gas supply sytem (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Water supply system (prosumer);coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Smart Grid CS;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+(Prosumers) Households with Photovoltaic cells and wind turbines;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+provider of raw material;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+provider of raw material;coordination mechanism, dynamic reorganization and coordination of the network under a disruption
+Commercial Greenhouse Growers (CGGs);Negotiation and collaboration for resource allocation and demand efficiency
+Commercial Greenhouse Growers (CGGs);Negotiation and collaboration for resource allocation and demand efficiency
+Commercial Greenhouse Growers (CGGs);Negotiation and collaboration for resource allocation and demand efficiency
+Commercial Greenhouse Growers (CGGs);Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Negotiation and collaboration for resource allocation and demand efficiency
+Commercial Greenhouse Growers (CGGs);Resolution of potencial conflicts
+Commercial Greenhouse Growers (CGGs);Resolution of potencial conflicts
+Commercial Greenhouse Growers (CGGs);Resolution of potencial conflicts
+Commercial Greenhouse Growers (CGGs);Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
+Virtual Power Plant (VPP) - Generator units/Controllable loads/Storage systems;Resolution of potencial conflicts
