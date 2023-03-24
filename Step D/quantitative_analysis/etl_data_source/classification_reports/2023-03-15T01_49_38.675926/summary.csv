@@ -1,0 +1,21 @@
+,Index,Emergent Behavior,Train/Test Score
+0,004,"north-to-south, red-to-green transition times",0.5072588365239978
+1,009,optimise energy usage in a range of weather conditions,-0.018255941292398603
+2,010,promote to use a VPP from a new electricity production cost policy,-0.01716387024683308
+3,011,cluster together into local energy collectives,0.29494328726881036
+4,012,market mechanisms,0.9319357296042112
+5,013,peak optimization,0.414258391924905
+6,016,"to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.",0.42268846746640754
+7,017,system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events,0.28194833700792143
+8,018,agents perform different functions based on their unique advantages relative to other agents postdisruption,0.313463583888418
+9,019,"coordination mechanism, dynamic reorganization and coordination of the network under a disruption",0.016799176917006498
+10,020,Negotiation and collaboration for resource allocation and demand efficiency,-0.42736433379927274
+11,022,supply power power to the electric load,0.2650766058020978
+12,023,Different responses according to different demand/response schemes (price-based),0.6104891692517491
+13,025,to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.,0.2412586141431432
+14,026,energy consumption/production patterns,0.9319354647849406
+15,028,use storage and demand-response techniques,0.36910958547616013
+16,030,deploy batteries in different ways depending on the behaviour of their members,0.88971769091013
+17,032,grid stability,0.5599231039901513
+18,034,decrease the power consumption from power utility by using available energy from the solar panels,0.7122101252917594
+19,039,improve citizens health,0.854946269734953

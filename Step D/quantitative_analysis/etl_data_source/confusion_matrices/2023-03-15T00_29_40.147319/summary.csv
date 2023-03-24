@@ -1,0 +1,22 @@
+,Index,Emergent Behavior,Train/Test Score
+0,000,load-generation balance,-0.09315037317795793
+1,004,"north-to-south, red-to-green transition times",0.7256647794639653
+2,005,avoid many simultaneous charging cycles,0.34344761045056604
+3,007,cost limits are not exceeded,0.11638409973738406
+4,010,promote to use a VPP from a new electricity production cost policy,0.31191519021229963
+5,011,cluster together into local energy collectives,0.47491490270891246
+6,013,peak optimization,0.3732277593961211
+7,014,distributed negotiations between groups,0.3412665756254877
+8,017,system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events,0.357344258399958
+9,018,agents perform different functions based on their unique advantages relative to other agents postdisruption,0.7306630861257722
+10,019,"coordination mechanism, dynamic reorganization and coordination of the network under a disruption",0.15416284578609651
+11,022,supply power power to the electric load,0.3458569277301824
+12,023,Different responses according to different demand/response schemes (price-based),0.5948696426426565
+13,024,decision about the best control design of the Smart Grid,0.6796526682519748
+14,025,to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.,0.37041066016248114
+15,027,battery storage models,0.6511211233210947
+16,028,use storage and demand-response techniques,0.5815888212645589
+17,030,deploy batteries in different ways depending on the behaviour of their members,0.684266877119695
+18,031,Optimize the overall charging behavior,0.6132477184021368
+19,033,control the battery and enhance the operation of the system,0.4317790097579084
+20,034,decrease the power consumption from power utility by using available energy from the solar panels,0.6666595997724971

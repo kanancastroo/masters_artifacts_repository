@@ -1,0 +1,21 @@
+,Index,Emergent Behavior,Train/Test Score
+0,000,load-generation balance,0.1050817407773672
+1,004,"north-to-south, red-to-green transition times",0.47662419440189285
+2,005,avoid many simultaneous charging cycles,0.2966824759888239
+3,007,cost limits are not exceeded,0.14960785413647604
+4,010,promote to use a VPP from a new electricity production cost policy,0.343335663204855
+5,013,peak optimization,0.5640017976357734
+6,014,distributed negotiations between groups,0.3244659500298803
+7,017,system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events,0.27494222445801353
+8,018,agents perform different functions based on their unique advantages relative to other agents postdisruption,0.32157417672191957
+9,019,"coordination mechanism, dynamic reorganization and coordination of the network under a disruption",0.03927665033240124
+10,020,Negotiation and collaboration for resource allocation and demand efficiency,-0.313250954202706
+11,022,supply power power to the electric load,0.07034853361184368
+12,025,to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.,0.327119309163422
+13,027,demand side management,0.44567386392347696
+14,028,battery storage models,0.6315897397752859
+15,030,balance energy consumption and production,0.8584962691586231
+16,031,deploy batteries in different ways depending on the behaviour of their members,0.49868041735555013
+17,033,grid stability,0.34543110786074704
+18,034,control the battery and enhance the operation of the system,0.7022306938765128
+19,036,minimize the local waiting time for vehicles,0.5853481190720415

@@ -1,0 +1,23 @@
+,Index,Emergent Behavior,Train/Test Score
+0,000,load-generation balance,0.05223477938675203
+1,003,promote to use a VPP from a new electricity production cost policy,-0.26675632503607405
+2,004,peak optimization,0.8815387061188891
+3,005,optimizations of the decisions of the Smart Grid given the best control design,0.7081800994717655
+4,006,"to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.",0.3726212980469963
+5,009,Negotiation and collaboration for resource allocation and demand efficiency,0.5078246348918581
+6,010,supply power power to the electric load,-0.03550869177807092
+7,011,Different responses according to different demand/response schemes (price-based),0.2865899992966474
+8,012,decision about the best control design of the Smart Grid,0.899522303654869
+9,013,to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.,-0.0857638694216527
+10,015,battery storage models,-0.22488793148462793
+11,019,grid stability,0.8126208233595702
+12,021,minimize the local waiting time for vehicles,0.40098426900727235
+13,023,supply power to homes even in the event of an electric grid outage,0.5521019955146911
+14,027,cost limits are not exceeded,0.08212261235537766
+15,028,balance between energy production and consumption,0.824561539649561
+16,029,optimise energy usage in a range of weather conditions,0.2553610210042736
+17,031,market mechanisms,0.703513515096307
+18,032,distributed negotiations between groups,0.4138647220762166
+19,034,Resolution of potencial conflicts,0.7350936916778122
+20,035,balance energy consumption and production,0.6230250163957682
+21,039,improve citizens health,0.39592251143690327

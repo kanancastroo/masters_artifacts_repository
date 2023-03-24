@@ -1,0 +1,20 @@
+,Index,Emergent Behavior,Train/Test Score
+0,004,"north-to-south, red-to-green transition times",0.49737638524439143
+1,007,cost limits are not exceeded,0.16210712669569993
+2,008,balance between energy production and consumption,0.4187487279874713
+3,009,optimise energy usage in a range of weather conditions,-0.018603446151275627
+4,010,promote to use a VPP from a new electricity production cost policy,0.707683606787085
+5,011,cluster together into local energy collectives,0.2953908005664546
+6,012,market mechanisms,0.6853944241407001
+7,013,peak optimization,0.5842770860188773
+8,016,"to use as much as possible of the locally produced renewable energy and transact energy to decrease operational costs, optimizing its integration in smart grid advanced context.",0.31075739050746254
+9,017,system disruption responses and minimization of  the overall costs of satisfying total demand from the system in these events,0.2954761985419939
+10,018,agents perform different functions based on their unique advantages relative to other agents postdisruption,0.7076822754650172
+11,019,"coordination mechanism, dynamic reorganization and coordination of the network under a disruption",0.16947892586679025
+12,022,supply power power to the electric load,0.40727794965259045
+13,023,Different responses according to different demand/response schemes (price-based),0.5403230261837816
+14,025,to proactively plan the DC operation as a system to be able to exploit its latent flexible energy to achieve a deeper and more efficient integration with the local Smart Grid.,0.7349190807575599
+15,026,energy consumption/production patterns,0.893937144853669
+16,030,balance energy consumption and production,0.8409227709407592
+17,039,prevent pandemy,0.7007027720655266
+18,040,improve citizens health,0.7349203498670578
